@@ -1,8 +1,63 @@
 [
-    {
-      "id": 1,
-      "name": "Aloe Vera",
-      "price": 14.99,
-      "image": "https://picsum.photos/seed/aloe/400/400"
-    }
-]
+    
+  {
+    "id": 1,
+    "name": "Aloe Vera",
+    "price": 14.99,
+    "image": "https://i.ebayimg.com/images/g/0XsAAOSwCptn~mIU/s-l1600.webp"
+  },
+  {
+    "id": 2,
+    "name": "Monstera Deliciosa",
+    "price": 29.99,
+    "image": "https://images.pexels.com/photos/1005058/pexels-photo-1005058.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Snake Plant",
+    "price": 12.50,
+    "image": "https://i.ebayimg.com/images/g/3O0AAOSwXyJnwkQ3/s-l1600.webp"
+  },
+  {
+    "id": 4,
+    "name": "Fiddle Leaf Fig",
+    "price": 39.99,
+    "image": "https://images.pexels.com/photos/1133957/pexels-photo-1133957.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Pothos",
+    "price": 9.99,
+    "image": "https://www.marthastewart.com/thmb/AtP8qfuuu72ZACtNxqkXOB7imTk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-2170686151-675aeaba15364e1c876dc485f7e6d8d8.jpg"
+  },
+  {
+    "id": 6,
+    "name": "ZZ Plant",
+    "price": 22.75,
+    "image": "https://images.pexels.com/photos/1121247/pexels-photo-1121247.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "Peace Lily",
+    "price": 18.49,
+    "image": "https://tropicalplantsofflorida.com/wp-content/uploads/Spathiphyllum-Bush.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Spider Plant",
+    "price": 11.25,
+    "image": "https://images.pexels.com/photos/1084199/pexels-photo-1084199.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop"
+  },
+  {
+    "id": 9,
+    "name": "Rubber Plant",
+    "price": 27.99,
+    "image": "data:image/webp;base64,UklGRtYNAABXRUJQVlA4IMoNAAAwTQCdASo4ATgBPoFAm0qlI6IhohKZUKAQCWlu4XYBBY+G0pay91u7ev8t4h+Z/3vM4uR+zSfztH4BHs/eZ7X+NP9z88qZ2rDHf/8nyGfVn7R/AZ+uPphexD9m///7qv7D//8UA1NKpj5C0qmPkLSqY+QtKpj5C0qmPkJNLWL0O61qaVTHx38Is7Sp4ILOaJ3qz2wgp5CTDBWBcmPkLIZFOzX+wY3riLFileBqiA4ZrFxoNqwWfoGZU7X3IWlUx7uZjEIEV1VDjRoHMpmSpWIiLQ3lt+kFhhp2yYRF9bgCHf//IZlQqBF+1WBcmPjv4aexv1JquwLMte2QicaSTewKfLs2IxdMqpi+Iwjwh+/HDLgnpaQ2ppVMe8u4MmJRW5XWd+9djlmPRYzSDYc86GF0q/NkOAtxxZ9EXbzI2ppVMfISo2dnZR2XBTWoQzy8e81BMVm1Obdz6+lqa4DCe/Cl4+QtKdUadAH+rCbidjeVu4r8dOFPmfoQpzfM+uuTkf41Oo6qPeZ+81J/cqeLcC5MfIX6SEfmRcpUkXl1E9JxAeH7VFExf2gOL/h2Nkx8haVTHvOWUTY64Sk8cgl+dLabvqyFpVMfIWlOdGZANhr1IynI2326CL/63yZeTuh1A+UcTVQLkx8haU8GrXivs2hCXID6Vf0eGTSBHSXSHwamlUxzQ7CH7LT2CM+DU0qmOXXfjiVpPhBQLFnXDmAE0pj5C0qmOZCj4I8V7xjN3eW5p689PpJEQ0qmPkLSnbimGddQDC4fUqDxiv4p7bcwmUBQTkOA6oujvuQtKpj5BMBqSoDuu9ZoIW4Z8GpqxCnyFpVEAAD+/7sQAAAGcD5L5rU7MhzWAw0H96/rrm/cMJiFK/3o7zAZEvsO2U3861O8H6L30mK/u/55p3EZgvCQ1xQeOCPi6JDYCQsNgLxC79apjKl4N49mb7pZKrM+4elUylSTFsKoPRmakBUvviJdNhBX6FQBJyC69X6RRFD/5itN21YhBohHYukjE4TOWc9NSglnT7EXFkT+vLecwW2idgWJWgCP05E6hJuDJj9nsatqxaoqUVrSj9DJ2o8kfIJ2uy/sNgab+IRR4U4twLT2ZHwnEVX8nwJ9rm1pbu8JLV0hktBtxGSvVHYplvUTvqWxlOmhEEESQ2B5Tb5MItaZ44FdHoXGSStuCaeE7L//CwqZeZ//qBeTaXEB9w5zc9fWO9GAPvrGrMWuarczC/wb+cn+OLXEvvX2VdybCiqm8QMiSISIpN1V83lIQNfo79AU/9vbeouLMZY7rKPLnzBgRWtPr5L4ztasE+k5CT8CuDnYbQo4d5cdcCJQAdRa3s1XGldz8OfQFWdzHb3pvioH0U84+2kBNbfFwRPb/yHiG+gk2w2aimj247PANSRe3MhVCS0nZNaYIp6daYsFv9GzTtn1B13+zWWzkQE0xlUWN6oMxt3Gjo9om2fIQ7AlJJ+Tq4HjPA5Q6xf7pyGnbj7UI0lB4wSo+SKwrviu2Ol/FY2oXFB+1VWY08mI0koBaN6vi5yfEIjRvi27cgclj6XfHKsCyepqp660RAtQk+Oflk0w2xlFVLBF/wOsSKXw2xFYqljPZ+Agh/RuIi1JFpaXvYstdCtQTe+E9aEnhQXfuXRBzg6S+SddcmKQxsui1DZ22aPxfXbmLqnc3jQ+8C9SA8oE+jo6XV/5jI/6uvhBAiQFtF8n2eQHGgvkdkVNBGIe18Cu1lz2qX5H8Z+T722HQYjfVfVbs0pqN1doIHJa87wg4RMhZYgBSpSFx3JYsZF22yoLXtYCuoHDVO5kjGOj6466ZjzePcTZe3C7FzqE+gKC3RQqylrvCi2EL8PRFodfxRUo3jkyZuw7LFLB0JIMluz53i7ilyf4TGcPHZKclqTZTWl/Y3OrkbE66QeQ1RUqsmODdt25Btryz3ZaXxvm32SgIDWWJWjWGcPm80XJovHdOfd6cZYYSsnXkZKmcj1LHjf9PssOl8k0esM9DEPD7SDkKobqCjK70W9K5eLYFVA4vF92btPRLaorZoX2DGFeBKFZjJ25tTIMZuPwPNlN1LQIdQKle8VjgRKOJlNwMXpXJeq9pT3Kh62kAGUgCoVcsoEtcASe28LHt2zjMfw+yS/5IPYwb5rIBuu+Fdot5JEiHAlGXq6dt2YCgKdKr+H3yznCBQzFBeTUzIf+jk4gPMANvsfHP7CgJOF/H9waUvTpwbPzEELsV1AlsKNc8z+3eQXX4BUOwLnfa3ZP6YNbwv8oVpV6LGwRX0zjbeqwz7CJ2FX6Yp/75bVNCR9RDGwx/Zld7xt0HMyZNBAbE9tjwsfT6Bj6T2EjGiKlDQ+blFWpZMBNiOkxR5+3vkbXHqvOR97vdkp+hx9l/cTVHlbXe4r2dFpQ/9daKsKsiRZSoTwkFfp3/Wq7cTvX3XsuJ78fH3gngBgjfawbWcU9biRqtlplWqA+L8oPnzOdIYrCEKsguUhtOUP/MHV6VBerWLyyTmHl6czgYQ/ERuIMPCVpSIsBOwmzuFMADgbjcNDB5KWWNflbpk/2oohPH0T/Tn3BWFfSwfmM3FSbkn9A1V/zs1PXwQHKNEmrs5VgE9R4lybBO4mlzmKOpJGj3LKlkE06wPnPeskcNDg+3FmQ/LPVFVUQK39zstoGyfN90cI5LRlKzIqYKqd/Ro9yAbMCl87MaOB6HreXGTLdXQnhlCcdgm42/if/h+Fgo0sLtgwynbOJ53yyNplRJqBGZS3UIwXXNrbw9weP3NG/0kmtHr0hnF0KzskHR8tVrTjbM94cVndn0+nCqlq/er2TQZudqd9i7ZPv5Q4gH2fi8NMnAprDnfLvxCMyR5gcJT1zXOj48ZYUqhyHFZXMJG6/cJt+jhIj3n26w5CC5D1CRDlme1XNr+ogIUIWjYQZbMo8yLtkW7lLKmLNkc7DzWMThm00fC2m0vZOH4WqWF4fsRgRbKA9oC6z8DqJmo1pQkGwpwCu/DN0shVhe+UldP/lB5FKub/yLrTShbBRUmVMdjnioIVshS/2et7XxJDucalLR1aGrjO/GjCtxwHCgp2EZ7JElc0UU2Gz0XcmnoPZ41Y3skPsNrAkDYBov7WYQFLkw8t3HRq7VOUoqcYnmixzLq5ROvqJoDXYot22bPrrCgfz47QCa0H0rHCFrwLvc+q9rg2W+T6TCFx9JkC9vpjZyuh0/c747Fyk0LRvQyoI8VdD6mw96nUAqYfNleAKMt1f1CWOte+RIE0Ckbk7sHwR2fySEkzDEcskEWyUQG/7Ss5cetb1aEFsHa5UecKwLSaQk+4v5k54XNCGnfGHS5walV5qsfi74IKALr9Y4MSUeVuyGiItBnryzIjE+6AKEv10tP+tXhUuPuNb5oJ3lswAI+bxERNYeN7kSLhnLfFRGMXopItlIVym2SrlVFGqWoBlSJEjhRMiyyZ971rJYcQkc0QFeCSNlEcWtRhb7kZdcEPPZzj+7/G6IHEQWoh4DjDZrVoMYNpuyxueNlh7xeDueT7wyFRfqDDnLdOeWbX7dVdnSUFxK9w1GoPPGcLj82aF45tlKqGrQMggkFUxFeqr/41lTsd3jvGI4lYfNuso9/BlsZcQnOvbPceW2AL6u4H5lpC61g5L1ugCa+n9cUJ3HfS2+1WO9Ogg2obsawWn4nYAHe3T6nxPKjDto5GdM+yGP67/zckKipTytKktF22mA/4DqL/lTaHKlbbCNtDQFJzyeBfA3sHeKIbobtEHu7hAPb6UYeSzH0+Bgw/LqQAJbYn3fwNHZNw/poJRXky6yv08VBjS0P7wRha0Fw3i5eHuul4/RstHNgpOc5qYSDXDiBextoKw1S7vgXlXXXEywZlqHyAzvoX974VoAn+X2kM7pJcXOwdf/m4vbgY1GeD4601m7LkFnhMDbvSfptxpGG+z8oiN1ox/QWJwe/dOMYZ9yjY3CcAWx680Z7gg8Rtk8yjA36CguCgX6d1F/JXdP82K+lsjHuPFQtcPhuVNpfYsMAHYUhGwNaXCKRSGhk1VA6A5Q0Slg98tTKOWz6razLjz7XbpPx9XFD9s5gsBLC8rlVABrQJ/srlE9mhqbJOksxpL9dzSh3ukKFpaoH2JlfibEsDlrkN1pJ+LePw4t3GRlV8kqvFjOiK4c9xdZZ9tNFJ1wBWoyqNBaHZspSNXeu4OOKQGVvQ/e+xS5FwhlghUfsxDb+WN5vL6/uMnZh4QSPPy0g0oU4ZMEW4Lsg2Uj7xdHvdaw79H2fT1LFn6AU5+4n5evOoyDJHq8qY8FHCHYZX1gYOz9O61zV9jAFn+dkw0cGpbdfPTUa/rEhpdxpjjbfqiuDYMq8wakNpqDi6zDkq8x1NB47tjswgWNfyksPgI8Ry2wxQOiB9N/yFcrbO/ydODmd+Rj+q60xTbNhDoqYp/KudgFB4iZpQQq7sK375e+Sp67MU20+t+adZAcQAEL4Thu1LNivPZYzloJhpxKEm+wO+ssQeK+SE6ZADVbfkjPW7LpT4FDAIemhPAtWNzpw2CO6WLBwyurVgcpI2Sf2toCpou2yvm72z24u7Qo0MQ3mSc8AQOEgtU2eL/nkY9OqW6dnz+Sv6zt8w5BxuZk3eaSx7rkywmodq49AakGD1B9zG9LxcmMLQ6zyNc3m6THd1mTRD+6G3L6RO4xHX9Hpo80epLXPV/KsP9/DOGUjn3UPBHH9Dt5xBT+cAAAAAAAA=="
+  },
+  {
+    "id": 10,
+    "name": "Cactus",
+    "price": 15.99,
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSugjaDlflPbTzazuneSjizPgaRJ8GpBxYsXPtKjMyVVzTvHq4FHvFYHlCW8zCKmhMoitX6tPjRZTedYlgWqUU37CPfHWlNsqrRYb2AvRY2qbrKypKdSQvOaOa5SH2wH7PI32CI3rE&usqp=CAc"
+  }
+  ]
