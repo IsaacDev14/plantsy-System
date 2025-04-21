@@ -4,7 +4,7 @@ const NavBar = () => {
       <div>
         <img
           className="h-16  w-16"
-          src="src/assets/logo.png"
+          src="src/assets/logo2.png"
           alt=""
         />
       </div>
