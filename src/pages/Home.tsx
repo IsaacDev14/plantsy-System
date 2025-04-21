@@ -16,7 +16,7 @@ const Home = () => {
   // Load the plants from localStorage or fallback to the JSON data
   const [plants, setPlants] = useState<Plant[]>(() => {
     const savedPlants = localStorage.getItem("plants");
-    return savedPlants ? JSON.parse(savedPlants) : plantData; // Fallback to JSON if no saved data
+    return savedPlants ? JSON.parse(savedPlants) : plantData; 
   });
 
   // Handle adding a new plant and saving to localStorage
@@ -43,11 +43,11 @@ const Home = () => {
   );
 
   return (
-    <div className="px-6">
+    <div className="">
       <PlantForm onAddPlant={handleAddPlant} />
       <SearchBar searchTerm={searchTerm} onSearchChange={setSearchTerm} />
 
-      <div className="mt-6 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+      <div className="mt-6 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 max-w-fit">
         {filteredPlants.map((plant) => (
           <PlantCard
             key={plant.id}
@@ -62,7 +62,7 @@ const Home = () => {
           localStorage.removeItem("plants"); 
           setPlants(plantData);
         }}
-        className="bg-red-600 text-white py-2 px-4 rounded mt-4 cursor-pointer"
+        className="bg-red-600 text-white py-2 px-4 rounded ml-10 mb-10 mt-4 cursor-pointer"
       >
         Clear Data
       </button>

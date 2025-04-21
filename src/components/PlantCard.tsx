@@ -10,7 +10,7 @@ const PlantCard = ({ name, price, image }: PlantCardProps) => {
   const [inStock, setInStock] = useState(true);
 
   return (
-    <div className="bg-gray-300 rounded-xl shadow-md overflow-hidden w-full hover:scale-105 transition-transform duration-300">
+    <div className="bg-gray-300 rounded-xl shadow-2xs ml-3 overflow-hidden w-full hover:scale-103 transition-transform duration-300">
       <div className="h-70 w-full">
         <img
           src={image}
